@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Shtesë e WhatsApp</string>
+    <string name="action_settings">Opcionet</string>
+	
+    <string name="title_activity_change_password">Ndërro fjalëkalimin</string>
+	<string name="lock_prefs">Blloko preferencat</string>
+	<string name="lock_text">Mbyllë të gjitha bisedat pas mbylljes së WhatApp.</string>
+
+    
+    <string name="lock_after">Kyqu pas </string>
+    
+
+    <string name="change_password">Ndërro fjalëkalimin</string>
+
+    
+    <string name="enter_current_password">Shëno fjalëkalimin e tanishëm. Fjalëkalimi i parazgjedhur: 1234</string>
+    <string name="enter_new_password">Shëno fjalëkalimin e ri</string>
+    <string name="confirm_password">Konfirmo fjalëkalimin e ri</string>
+    <string name="password_length_warning">Gjatësia fjalëkalimit nuk mundë të jetë më shum se 4</string>
+    <string name="password_mismatch">Fjalëkalimet nuk përputhen</string>
+    <string name="password_incorrect">Fjalëkalimi gabim</string>
+    <string name="password_change_message">Fjalëkalimi u ndryshua</string>
+    <string name="lock_enable_message">Kyqja është aktivizuar për këtë person</string>
+    <string name="lock_disable_message">Kyqja është deaktivizuar për këtë person</string>
+    <string name="call_place_error">Nuk mund të vendoset thirrja</string>
+    <string name="chat_reopen_message">Rihap bisedën për ti parë ndryshimet</string>
+    <string name="whatsapp_restart_message">Rihap WhatsApp për ti parë ndryshimet</string>
+    <string name="whatsapp_restart_message_long">Fshije whatsapp nga lista e freskuar dhe rinis përsëri</string>
+    <string name="wait_message">ju lutem prisni dy minuta pas hapjes pastaj provoni prap</string>
+
+    
+    <string name="internal_error">Problem i brendshëm</string>
+    <string name="bundle_null_error">Problem gjatë hapjes së shërbimit:Bundle null</string>
+    
+
+
+    <string name="select_picture">Selekto imazhin</string>
+
+    <!-- do not translate this string. see faq section on XDA thread -->
+    <string name="menuitem_call">call</string>
+
+
+    <string name="menuitem_hide">Fsheh</string>
+    <string name="menuitem_unhide">Shfaqë</string>
+    <string name="menuitem_wallpaper_set">Imazh i veqantë</string>
+    <string name="menuitem_wallpaper_remove">Fshije imazhin</string>
+    <string name="menuitem_reminder">Shto njoftim</string>
+    <string name="menuitem_lock">Kyq</string>
+    <string name="menuitem_unlock">Q'kyq</string>
+    <string name="menuitem_highlight">Të theksuara</string>
+    <string name="menuitem_unhighlight">Të patheksuara</string>
+
+    <string name="reminder_prefs">Perferencat e njoftimeve</string>
+	<string name="enable_reminder">Aktivizo shërbimin e njoftimeve</string>
+	<string name="reminder_text">Shënim: Shërbimi trajtohet nga aplikacioni automatikishtë. Përdorni këtë opsion nëse dëshironi të aktivizoni/deaktivizoni sherbimin.</string>
+	<string name="reminder_in">Më njofto në </string>
+    <string name="reply_to">Bëjë replikë %1$s</string>
+
+
+    <string name="highlight_prefs">Thekso perferencat</string>
+	<string name="highlight_groups">Thekso grupet</string>
+	<string name="highlight_individual">Thekso bisedat sipas individit</string>
+	<string name="select_color">Selekto ngjyrën</string>
+	
+	<string name="privacy_prefs">Perferencat e privacis</string>
+	<string name="hide_last_seen">Ndalo opcionin Last Seen</string>
+    <string name="hide_read_receipts">Ndalo shenjën e leximit të mesazhit</string>
+    <string name="hide_delivery_receipts">Ndalo shenjën e dërgimit të mesazhit</string>
+    <string name="req_restart">Kërkohet rinisje</string>
+	
+	<string name="layout_prefs">Perferencat e pamjës</string>
+	<string name="hide_camera_btn">Fshih butonin e kamerës</string>
+    <string name="hide_tabs_btn">Fshih tabs</string>
+    <string name="replace_call_btn">Zëvendëso butonin për thirrje</string>
+
+
+    <string name="color">Ngjyra</string>
+	<string name="cancel">Anulo</string>
+	<string name="clear">Fshijë</string>
+	<string name="enter">Konfirmo</string>
+	<string name="default_password">Fjalëkalimi i parazgjedhur: 1234</string>
+	
+    <string-array name="minutelist">
+        <item>Immediate</item>
+        <item>1 Minutë</item>
+        <item>3 Minuta</item>
+        <item>5 Minuta</item>
+        <item>10 Minuta</item>
+    </string-array>
+
+    <string-array name="reminderlist">
+        <item>15 Minuta</item>
+        <item>30 Minuta</item>
+        <item>1 Orë</item>
+        <item>2 Orë</item>
+    </string-array>
+
+    <!--do not translate these strings see faq section on XDA thread-->
+    <string-array name="oneclickactions">
+        <item>Reply</item>
+        <item>Info</item>
+        <item>Forward</item>
+        <item>Disable</item>
+    </string-array>
+
+    <array name="demo_colors">
+        <item>#9CCC65</item>
+        <item>#D4E157</item>
+        <item>#FFEE58</item>
+        <item>#FFCA28</item>
+        <item>#FFA726</item>
+        <item>#FF7043</item>
+        <item>#BDBDBD</item>
+        <item>#78909C</item>
+        <item>#29B6F6</item>
+        <item>#ef5350</item>
+        <item>#EC407A</item>
+        <item>#212121</item>
+    </array>
+    <string name="title_activity_color_chooser">Ndërro ngjyrën</string>
+    <string name="single_click_label">Veprimi me një klik</string>
+
+</resources>
